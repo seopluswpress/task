@@ -25,7 +25,9 @@ const corsOptions = {
     "http://localhost:5173", // Vite default
     "http://localhost:3000", // React default
     "undefined",
-    "https://tan-aardvark-644850.hostingersite.com"
+    "https://tan-aardvark-644850.hostingersite.com",
+    "https://task-zdhm.vercel.app/",
+    "https://task-5w81savly-hemanths-projects-d3c5ade9.vercel.app",
   ],
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
